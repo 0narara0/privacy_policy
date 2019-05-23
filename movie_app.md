@@ -20,7 +20,6 @@ We use an analytics tool called Firebase in order to gain insight into how our a
 -  IDFVs/Android IDs
 -  Instance IDs
 -  Analytics App Instance IDs
--  Device specs (iOS)
 
 [ The list of certain types of information Admob automatically collect from this application ]
 
